@@ -1,3 +1,3 @@
 getage(){
-    let age = 123;
+    let age = 10;
 }

@@ -3,5 +3,6 @@ function getage(){
 }
 
 let foo={
-    foo(){}
+    foo(){},
+    bar(){}
 }
